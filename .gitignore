@@ -1,0 +1,18 @@
+out/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.dll
+*.exe
+
+# VS / IDE
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Dumps (if anyone runs it inside the repo)
+heap_dump*.bin
+heap_dump*_regions.txt
